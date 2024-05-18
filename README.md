@@ -1,4 +1,4 @@
-# Modified MIPS Assembler Documentation
+# MIPS Assembler
 
 ## Overview
 This project presents a modified version of a MIPS assembler. The assembler is capable of converting MIPS assembly code into machine code. This documentation provides an overview of the code structure, functionalities, and usage.
