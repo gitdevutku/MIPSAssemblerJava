@@ -4,7 +4,7 @@
 This project presents a modified version of a MIPS assembler. The assembler is capable of converting MIPS assembly code into machine code. This documentation provides an overview of the code structure, functionalities, and usage.
 
 ## Code Structure
-The code is structured into a single Java class, `ModifiedMIPSAssembler`, which contains all the necessary methods and functionalities to assemble MIPS code.
+The code is structured into a single Java class, `MIPSAssembler`, which contains all the necessary methods and functionalities to assemble MIPS code.
 
 ### Methods
 - `assemble(String filename)`: Assembles MIPS code from the specified file.
@@ -18,8 +18,8 @@ The code is structured into a single Java class, `ModifiedMIPSAssembler`, which 
 
 ## Usage
 To use the Modified MIPS Assembler:
-1. Compile the Java file: `javac ModifiedMIPSAssembler.java`
-2. Run the compiled program: `java ModifiedMIPSAssembler`
+1. Compile the Java file: `javac MIPSAssembler.java`
+2. Run the compiled program: `java MIPSAssembler`
 3. Select a MIPS assembly file using the file browser dialog.
 4. The assembled code will be displayed in the console.
 
