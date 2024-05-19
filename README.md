@@ -35,4 +35,4 @@ public class Main {
 ## Dependencies
 - Java Swing library for file browser dialog.
 ## License 
-- This project is licensed under the MIT License.
+- This project is licensed under the APACHE 2.0  License.
